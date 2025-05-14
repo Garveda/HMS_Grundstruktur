@@ -1,0 +1,10 @@
+name: zahlenmengen
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - matplotlib
+  - ipympl
+  - ipywidgets
+  - notebook
+  - jupyterlab
